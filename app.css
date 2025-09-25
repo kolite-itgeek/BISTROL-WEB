@@ -162,7 +162,6 @@ span {
     50% { transform: translateY(-10px); }
 }
 
-
 .card-cards-middle {
     animation: middle 2s infinite;
 }
